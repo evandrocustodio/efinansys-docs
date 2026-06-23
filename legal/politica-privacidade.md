@@ -1,0 +1,41 @@
+Ao utilizar o **eFinansys - Sistema de Controle Financeiro Pessoal**, o usuário declara estar ciente desta **Política de Privacidade**, em conformidade com a LGPD (Lei nº 13.709/2018).
+
+## Uso dos dados
+
+Os dados fornecidos pelo usuário, de forma voluntária, são utilizados **exclusivamente para gerenciamento financeiro pessoal**, incluindo registro de lançamentos, contas, classificações e demais funcionalidades do sistema. Esses dados não são utilizados para fins de marketing, publicidade ou qualquer outro uso não relacionado ao funcionamento do serviço.
+
+## Venda e compartilhamento com terceiros
+
+**Os dados não são vendidos nem compartilhados com terceiros** para fins comerciais, publicitários ou de marketing. O sistema não repassa informações financeiras do usuário a parceiros, anunciantes ou outras empresas.
+
+## Armazenamento e segurança
+
+**Os dados são armazenados de forma segura**, com medidas técnicas e organizacionais adequadas para proteger as informações inseridas. O eFinansys adota boas práticas de segurança digital. A equipe de suporte só terá acesso aos dados em situações específicas e autorizadas, como para solução de problemas técnicos, sempre respeitando o sigilo e a LGPD.
+
+## Direitos do usuário (titular dos dados)
+
+De acordo com a LGPD, o usuário tem total controle sobre seus dados e poderá, a qualquer momento:
+
+- Corrigir ou atualizar informações;
+- **Solicitar a exportação** dos dados vinculados à sua conta, por meio do canal oficial de suporte: suporte@efinansys.com.br;
+- **Solicitar a exclusão** da conta e de todos os dados associados, encerrando o uso do sistema — disponível em Configurações ou pelo suporte;
+- Resetar seus dados financeiros, quando aplicável.
+
+A exclusão da conta é definitiva e, após a confirmação, os dados não poderão ser recuperados.
+
+## Limitações de dados coletados
+
+O sistema não coleta nem armazena dados sensíveis ou que possam representar risco à privacidade do usuário, tais como:
+
+- Números de cartão de crédito/débito;
+- Dados bancários com possibilidade de movimentação (como senhas, chaves Pix, etc.);
+- Documentos oficiais (RG, CNH, etc.);
+- Informações de saúde, crença religiosa, orientação política, etnia, entre outros.
+
+Excepcionalmente, em caso de realização de doações, o CPF poderá ser coletado para viabilizar o processamento e registro da doação, em conformidade com a LGPD.
+
+Qualquer informação desse tipo inserida pelo próprio usuário será de responsabilidade exclusiva do mesmo, não sendo o sistema responsável por seu tratamento.
+
+## Contato
+
+Para dúvidas, solicitação de exportação ou exclusão de dados, entre em contato com o canal oficial de suporte: **suporte@efinansys.com.br**.
